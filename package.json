@@ -1,0 +1,8 @@
+{
+  "name": "whatsapp-manager-vercel",
+  "version": "1.0.0",
+  "description": "A simple WhatsApp number management app for Vercel",
+  "dependencies": {
+    "mongoose": "^7.0.0"
+  }
+}
